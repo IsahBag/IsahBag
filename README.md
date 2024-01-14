@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IsahBag
-- 👀 I’m interested in learning how to create acessibles web sites.
-- 🌱 I’m currently learning UX design and back-end tools.
-- 💞️ I’m looking to collaborate on assistive projects.
-- 📫 How to reach me: isabag82@gmail.com / @isadorabagatini
+- 👀 I’m interested in developing my programming skills.
+- 🌱 I’m currently learning about data analysis, power BI and back-end development.
+- 💞️ I’m looking to enter the technology field.
+- 📫 How to reach me: www.linkedin.com/in/isadora-bagatini
 
 <!---
 IsahBag/IsahBag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

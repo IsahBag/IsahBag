@@ -9,7 +9,7 @@
 
 🌱 Em constante busca de aprendizado, desenvolvimento e aprimoramento das minhas habilidades em TI
 
-💼 Me encontro em transição de carreira após trabalhar quase uma década em órgão público da área judiciária, e procuro oportunidades para aplicar minhas habilidades e contribuir em projetos que me instiguem
+💼 Me encontro em transição de carreira e procuro oportunidades para aplicar minhas habilidades e contribuir em projetos que me instiguem
 
 **Linguagens:**
 

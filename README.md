@@ -19,7 +19,7 @@
 
 <img alt="django_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/django-color.svg" width="40px"> <img alt="css3_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/css3-color.svg" width="40px"> <img alt="bigquery_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/googlebigquery-color.svg" width="40px"> <img alt="html5_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/html5-color.svg" width="40px">  <img alt="msexcel_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/microsoftexcel-color.svg" width="40px"> <img alt="mysql_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/mysql-color.svg" width="40px"> <img alt="powerbi_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/powerbi-color.svg" width="40px"> <img alt="sqlite_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/sqlite-color.svg" width="40px"> <img alt="tableau_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/tableau-color.svg" width="40px"> <img alt="flask_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/flask-color.svg" width="40px"> <img alt="pandas_icon" src="https://github.com/IsahBag/IsahBag/blob/main/images/pandas-color.svg" width="40px"> 
 
-**Status:**
+**Stats:**
 
 ![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsahBag&show_icons=true&theme=radical)
 

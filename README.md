@@ -5,7 +5,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC/SP
 
-🎯 Meu objetivo é ingressar na carreira de Análise de Dados
+🎯 Meu objetivo é ingressar na carreira de Dados
 
 🌱 Em constante busca de aprendizado, desenvolvimento e aprimoramento das minhas habilidades em TI
 

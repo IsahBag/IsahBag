@@ -1,15 +1,15 @@
 ## Olá! Sou a Isadora Bagatini :) ###
 **Seja bem vindo(a) ao meu espacinho onde guardo meus projetos pessoais, estudantis e profissionais ❣️**
 
-📌 São Paulo - SP
+📌 São Paulo - SP.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC/SP
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC/SP.
 
-🎯 Meu objetivo é ingressar na carreira de Dados
+💼 Estagiária em Engenharia de Dados.
 
-🌱 Em constante busca de aprendizado, desenvolvimento e aprimoramento das minhas habilidades em TI
+🎯 Meu objetivo é me desenvolver na carreira de Dados.
 
-💼 Me encontro em transição de carreira e procuro oportunidades para aplicar minhas habilidades e contribuir em projetos que me instiguem
+🌱 Em constante busca de aprendizado, desenvolvimento e aprimoramento das minhas habilidades em TI.
 
 **Linguagens de programação:**
 
